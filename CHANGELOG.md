@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/michaeldallen/The--Complete--Github--Actions--and--Workflows--Guide/compare/v1.0.1...v1.0.2) (2025-05-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency npm to v11 ([d25c839](https://github.com/michaeldallen/The--Complete--Github--Actions--and--Workflows--Guide/commit/d25c8391b1bfa1b69f3c5491f5c72c4efd49b9c0))
+
 ## [1.0.1](https://github.com/michaeldallen/The--Complete--Github--Actions--and--Workflows--Guide/compare/v1.0.0...v1.0.1) (2025-05-23)
 
 
