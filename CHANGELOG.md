@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/michaeldallen/The--Complete--Github--Actions--and--Workflows--Guide/compare/v1.1.0...v1.2.0) (2025-05-23)
+
+
+### Features
+
+* first workflow ([fca193e](https://github.com/michaeldallen/The--Complete--Github--Actions--and--Workflows--Guide/commit/fca193ee0e798cbaba8e5896630db08a00756b19))
+
 # [1.1.0](https://github.com/michaeldallen/The--Complete--Github--Actions--and--Workflows--Guide/compare/v1.0.3...v1.1.0) (2025-05-23)
 
 
