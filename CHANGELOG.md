@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/michaeldallen/The--Complete--Github--Actions--and--Workflows--Guide/compare/v1.0.3...v1.1.0) (2025-05-23)
+
+
+### Features
+
+* yaml exercise ([26b8b58](https://github.com/michaeldallen/The--Complete--Github--Actions--and--Workflows--Guide/commit/26b8b5845e2d8791a4d73c5ca5c4500c6800a1f4))
+
 ## [1.0.3](https://github.com/michaeldallen/The--Complete--Github--Actions--and--Workflows--Guide/compare/v1.0.2...v1.0.3) (2025-05-23)
 
 
