@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/michaeldallen/The--Complete--Github--Actions--and--Workflows--Guide/compare/v1.0.2...v1.0.3) (2025-05-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency nodemon to v3 ([2970164](https://github.com/michaeldallen/The--Complete--Github--Actions--and--Workflows--Guide/commit/297016445ed02a3bf765fe5451a6832c3111e528))
+
 ## [1.0.2](https://github.com/michaeldallen/The--Complete--Github--Actions--and--Workflows--Guide/compare/v1.0.1...v1.0.2) (2025-05-23)
 
 
